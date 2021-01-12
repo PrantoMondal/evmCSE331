@@ -12,7 +12,7 @@
 <p>taking a vote via a traditional voting system with ballot papers,Vote counting is a big</p>
 <p>problem.To overcome this problem EVM is the only answer.EVMs also do not require</p>
 <p>electricity, EVMs run on an ordinary battery that&rsquo;s why we want to do this project</p>
-<p>SPECIFICATIONS</p>
+<p><b>SPECIFICATIONS</b></p>
 <p>In this project voters will have contestants&apos; names on the machine, voters can select</p>
 <p>any contesters by pressing a push button which is an easy to use feature.one port is</p>
 <p>dedicated for push button switches for contestants, master switch for polling office.</p>
